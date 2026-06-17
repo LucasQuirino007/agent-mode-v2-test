@@ -29,7 +29,7 @@ Neste exercício, você irá:
 
 Use o botão abaixo para clonar o exercício para sua conta.
 
-[![](https://img.shields.io/badge/Copiar%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_name=agent-mode-v2&template_owner=dev-pods)
+[![](https://img.shields.io/badge/Copiar%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_name=agent-mode-v2&template_owner=dev-pods&template_name=agent-mode-v2&owner=%40me&name=agent-mode-v2&description=Exercicio:+Construa+aplicacoes+com+modo+agent+do+GitHub+Copilot&visibility=public)
 
 <details>
 <summary>Tendo problemas? 🤷</summary><br/>
