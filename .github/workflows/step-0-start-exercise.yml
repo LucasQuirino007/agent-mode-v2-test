@@ -59,7 +59,7 @@ jobs:
         with:
           repository: skills/exercise-toolkit
           path: exercise-toolkit
-          ref: v0.7.0
+          ref: v0.8.1
 
       # Posta as instruções da Etapa 1 na issue de progresso
       - name: Criar comentário - adicionar conteúdo da etapa
